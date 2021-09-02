@@ -21,6 +21,10 @@ module.exports = {
                 name: `github`,
                 url: `https://github.com/narative`,
             },
+            {
+                name: `instagram`,
+                url: `https://github.com/narative`,
+            },
         ],
     },
     plugins: [
